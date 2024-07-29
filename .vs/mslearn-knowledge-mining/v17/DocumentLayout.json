@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\nicol\\Desktop\\mslearn-knowledge-mining\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A0956425-BD4B-4E60-BA04-0E5F87192DF2}|Labfiles\\01-azure-search\\C-Sharp\\margies-travel\\search-client.csproj|c:\\users\\nicol\\desktop\\mslearn-knowledge-mining\\labfiles\\01-azure-search\\c-sharp\\margies-travel\\search-client.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{A0956425-BD4B-4E60-BA04-0E5F87192DF2}|Labfiles\\01-azure-search\\C-Sharp\\margies-travel\\search-client.csproj|solutionrelative:labfiles\\01-azure-search\\c-sharp\\margies-travel\\search-client.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "search-client",
+              "DocumentMoniker": "C:\\Users\\nicol\\Desktop\\mslearn-knowledge-mining\\Labfiles\\01-azure-search\\C-Sharp\\margies-travel\\search-client.csproj",
+              "RelativeDocumentMoniker": "Labfiles\\01-azure-search\\C-Sharp\\margies-travel\\search-client.csproj",
+              "ToolTip": "C:\\Users\\nicol\\Desktop\\mslearn-knowledge-mining\\Labfiles\\01-azure-search\\C-Sharp\\margies-travel\\search-client.csproj",
+              "RelativeToolTip": "Labfiles\\01-azure-search\\C-Sharp\\margies-travel\\search-client.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-07-29T06:40:58.106Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
